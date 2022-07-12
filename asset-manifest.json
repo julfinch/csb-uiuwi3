@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://julfinch.github.io/csb-uiuwi3/static/css/main.00ba8033.chunk.css",
+    "main.js": "https://julfinch.github.io/csb-uiuwi3/static/js/main.0429644a.chunk.js",
+    "main.js.map": "https://julfinch.github.io/csb-uiuwi3/static/js/main.0429644a.chunk.js.map",
+    "runtime-main.js": "https://julfinch.github.io/csb-uiuwi3/static/js/runtime-main.a598cfab.js",
+    "runtime-main.js.map": "https://julfinch.github.io/csb-uiuwi3/static/js/runtime-main.a598cfab.js.map",
+    "static/js/2.e988b6a9.chunk.js": "https://julfinch.github.io/csb-uiuwi3/static/js/2.e988b6a9.chunk.js",
+    "static/js/2.e988b6a9.chunk.js.map": "https://julfinch.github.io/csb-uiuwi3/static/js/2.e988b6a9.chunk.js.map",
+    "index.html": "https://julfinch.github.io/csb-uiuwi3/index.html",
+    "static/css/main.00ba8033.chunk.css.map": "https://julfinch.github.io/csb-uiuwi3/static/css/main.00ba8033.chunk.css.map",
+    "static/js/2.e988b6a9.chunk.js.LICENSE.txt": "https://julfinch.github.io/csb-uiuwi3/static/js/2.e988b6a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a598cfab.js",
+    "static/js/2.e988b6a9.chunk.js",
+    "static/css/main.00ba8033.chunk.css",
+    "static/js/main.0429644a.chunk.js"
+  ]
+}
